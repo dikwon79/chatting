@@ -1,0 +1,5 @@
+/home/dongil/CLionProjects/test/template-c/build/CMakeFiles/server.dir
+/home/dongil/CLionProjects/test/template-c/build/CMakeFiles/client.dir
+/home/dongil/CLionProjects/test/template-c/build/CMakeFiles/format.dir
+/home/dongil/CLionProjects/test/template-c/build/CMakeFiles/edit_cache.dir
+/home/dongil/CLionProjects/test/template-c/build/CMakeFiles/rebuild_cache.dir
